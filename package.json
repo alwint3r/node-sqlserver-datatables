@@ -1,0 +1,24 @@
+{
+  "name": "sqlserver-datatables",
+  "version": "0.1.0",
+  "description": "jQuery datatables server-side processing with Microsoft SQL Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alwint3r/node-sqlserver-datatables.git"
+  },
+  "keywords": [
+    "sqlserver",
+    "mssql",
+    "datatables"
+  ],
+  "author": "Alwin Arrasyid <alwin.ridd@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alwint3r/node-sqlserver-datatables/issues"
+  },
+  "homepage": "https://github.com/alwint3r/node-sqlserver-datatables#readme"
+}
