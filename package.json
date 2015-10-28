@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/alwint3r/node-sqlserver-datatables/issues"
   },
-  "homepage": "https://github.com/alwint3r/node-sqlserver-datatables#readme"
+  "homepage": "https://github.com/alwint3r/node-sqlserver-datatables#readme",
+  "dependencies": {
+    "mssql": "^2.3.1"
+  }
 }
